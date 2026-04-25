@@ -1,0 +1,25 @@
+.venv/
+.vscode/
+
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+
+Final Year Final Folder/backend/.env
+Final Year Final Folder/backend/be/
+Final Year Final Folder/backend/logs/
+Final Year Final Folder/backend/uploads/
+Final Year Final Folder/backend/audio/
+
+Final Year Final Folder/Backend v1/model/
+Final Year Final Folder/Backend v1/data.csv
+Final Year Final Folder/Backend v1/data/data.csv
+Final Year Final Folder/Backend v1/DevanagariHandwrittenCharacterDataset/
+Final Year Final Folder/Backend v1/*.zip
+Final Year Final Folder/Backend v1/__pycache__/
+
+Final Year Final Folder/react-frontend/node_modules/
+Final Year Final Folder/react-frontend/dist/
+
+Final Year Final Folder/.git_backup_before_import/
+Final Year Final Folder/Test Images/

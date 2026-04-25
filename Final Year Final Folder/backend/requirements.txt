@@ -1,0 +1,13 @@
+flask==2.3.3
+flask-cors==4.0.0
+flask-sqlalchemy==3.0.5
+python-dotenv==1.0.0
+werkzeug==2.3.7
+PyJWT==2.8.0
+opencv-python==4.8.0.76
+numpy==1.24.3
+tensorflow==2.13.0
+psycopg2-binary==2.9.7
+gTTS==2.3.2
+python-jose==3.3.0
+Flask-Limiter==3.3.1
